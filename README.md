@@ -1,1 +1,2 @@
-# holbertonschool-python-camp
+# My Project
+This is Naishi's Project
